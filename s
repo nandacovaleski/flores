@@ -1,3 +1,3 @@
 strong (
-    color: pink;
+    color:pink
 )
